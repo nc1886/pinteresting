@@ -1,6 +1,3 @@
 # One Month Rails
 
-This is the pintersting sample application for 
-{*One Month Rails*} (http://onemonthrails.com)
-
-by [Mattan Grieffel](http://mattangrieffel.com)
+An attempt to learn Ruby on Rails using the OneMonth method
