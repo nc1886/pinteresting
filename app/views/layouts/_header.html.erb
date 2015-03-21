@@ -24,10 +24,11 @@
         <span class="icon-bar"></span>
     </div>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
+    <!-- Collect the nav links, forms, and other content for toggling -->3
       <ul class="nav navbar-nav navbar-right">
         <li><%= link_to "Home", root_path %></li>
         <li><%= link_to "About", about_path %></li>
+        <li><%= link_to "Account Settings", edit_user_registration_path %></li>
         <li><%= link_to "Team", team_path %></li>
          
           <% if user_signed_in? %> 
